@@ -1,0 +1,22 @@
+{
+  "name": "ci-cd-pipeline",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nilupul6/Ci-Cd-pipeline.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Nilupul6/Ci-Cd-pipeline/issues"
+  },
+  "homepage": "https://github.com/Nilupul6/Ci-Cd-pipeline#readme"
+}
